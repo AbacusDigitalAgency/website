@@ -1,0 +1,10 @@
+<svg id="Group_8" data-name="Group 8" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Ellipse_1" data-name="Ellipse 1" fill="none" stroke="#fff" stroke-width="1">
+    <circle cx="17" cy="17" r="17" stroke="none"/>
+    <circle cx="17" cy="17" r="16.5" fill="none"/>
+  </g>
+  <g id="Icon_feather-arrow-left" data-name="Icon feather-arrow-left" transform="translate(11.5 14)">
+    <path id="Path_6" data-name="Path 6" d="M7.5,18.5H17.725a.5.5,0,1,0,0-1H7.5a.5.5,0,0,0,0,1Z" transform="translate(-6.725 -14.751)" fill="#fff"/>
+    <path id="Path_7" data-name="Path 7" d="M10.249,13.5a.5.5,0,0,0,.354-.854l-2.4-2.4,2.4-2.4A.5.5,0,1,0,9.9,7.146L7.146,9.9a.5.5,0,0,0,0,.707L9.9,13.352A.5.5,0,0,0,10.249,13.5Z" transform="translate(-7 -7)" fill="#fff"/>
+  </g>
+</svg>
